@@ -48,8 +48,17 @@
 }
 
 .imagem_bio {
-    border: 5px solid black;
+    border: 2px solid black;
     border-radius: 50%;
     margin: 50px 0;
     width: 15em;
+    height: 15em;
+}
+
+.icones_conhecimentos {
+    width: 10em;
+    height: 10em;
+    border: 2px solid gray;
+    border-radius: 50%;
+    margin: 5em 2em;
 }
